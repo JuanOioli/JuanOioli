@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jjuanferreira/)](https://www.linkedin.com/in/jjuanferreira/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Juan%20Oioli-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jjuanferreira/)](https://www.linkedin.com/in/jjuanferreira/) 
 [![Gmail Badge](https://img.shields.io/badge/-fe.juan@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fe.juan@gmail.com)](mailto:fe.juan@gmail.com)
 <!--
 **fejuan/fejuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
