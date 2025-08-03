@@ -1,4 +1,4 @@
-Profissional graduado em Análise e Desenvolvimento de Sistemas. Experiência a mais de 05 anos na área de desenvolvimento de sistemas.
+Profissional graduado em Análise e Desenvolvimento de Sistemas e Pós-Graduado em Gestão da Tecnologia da Informação e Ciencia de Dados e Inteligência Artificial. Experiência a mais de 06 anos na área de desenvolvimento de sistemas.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Juan%20Oioli-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jjuanferreira/)](https://www.linkedin.com/in/jjuanferreira/) 
