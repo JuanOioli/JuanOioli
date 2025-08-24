@@ -1,5 +1,7 @@
 Profissional graduado em Análise e Desenvolvimento de Sistemas e Pós-Graduado em Gestão da Tecnologia da Informação e Ciencia de Dados e Inteligência Artificial. Experiência a mais de 06 anos na área de desenvolvimento de sistemas.
 
+Foco em desenvolvimento de sistemas e SRE com atuação em projetos críticos, automação de entrega (CI/CD) e infraestrutura como código. Experiência com AWS, GCP e Azure, Kubernetes (AKS/EKS), observabilidade e gestão de projetos/indicadores. No dia a dia, combino boas práticas de engenharia (código, segurança e qualidade) com organização e métricas para dar previsibilidade à entrega e melhorar a operação. Também atuo em mentoria/treinamento e disseminação de conhecimento técnico nos times.
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-Juan%20Oioli-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jjuanferreira/)](https://www.linkedin.com/in/jjuanferreira/) 
 [![Gmail Badge](https://img.shields.io/badge/-fe.juan@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fe.juan@gmail.com)](mailto:fe.juan@gmail.com)
