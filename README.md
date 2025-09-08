@@ -1,6 +1,7 @@
-Profissional graduado em Análise e Desenvolvimento de Sistemas e Pós-Graduado em Gestão da Tecnologia da Informação e Ciencia de Dados e Inteligência Artificial. Experiência a mais de 06 anos na área de desenvolvimento de sistemas.
+Professional with a Bachelor’s degree in Systems Analysis and Development and a Postgraduate degree in IT Management, Data Science, and Artificial Intelligence. Over 6 years of experience in system development.
 
-Foco em desenvolvimento de sistemas e SRE com atuação em projetos críticos, automação de entrega (CI/CD) e infraestrutura como código. Experiência com AWS, GCP e Azure, Kubernetes (AKS/EKS), observabilidade e gestão de projetos/indicadores. No dia a dia, combino boas práticas de engenharia (código, segurança e qualidade) com organização e métricas para dar previsibilidade à entrega e melhorar a operação. Também atuo em mentoria/treinamento e disseminação de conhecimento técnico nos times.
+Focused on systems development and SRE, working on critical projects, delivery automation (CI/CD), and infrastructure as code. Experienced with AWS, GCP, and Azure, Kubernetes (AKS/EKS), observability, and project/metrics management. On a daily basis, I combine engineering best practices (code, security, and quality) with organization and metrics to bring predictability to delivery and improve operations. I also engage in mentoring, training, and sharing technical knowledge across teams.
+
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Juan%20Oioli-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jjuanferreira/)](https://www.linkedin.com/in/jjuanferreira/) 
