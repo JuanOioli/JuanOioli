@@ -5,8 +5,7 @@ Focused on systems development and SRE, working on critical projects, delivery a
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Juan%20Oioli-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jjuanferreira/)](https://www.linkedin.com/in/jjuanferreira/) 
-[![Hotmail Badge](https://img.shields.io/badge/-oi-juan@hotmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fe.juan@gmail.com)](mailto:oi-juan@hotmail.com)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:fe.juan@gmail.com)](mailto:oi-juan@hotmail.com)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:oi-juan@hotmail.com)
 <!--
 **fejuan/fejuan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
